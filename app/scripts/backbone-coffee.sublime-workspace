@@ -1,0 +1,719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userController"
+			],
+			[
+				"F",
+				"FBURL"
+			],
+			[
+				"an",
+				"angularFireAuth"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"r",
+				"rootScope"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"a",
+				"angularFireAuth"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"gru",
+				"grunt-contrib-jshint"
+			],
+			[
+				"Bi",
+				"BillerNotifierInterface"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"clos",
+				"close_database_connection"
+			],
+			[
+				"myf",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"Posts",
+				"Posts"
+			],
+			[
+				"OBs",
+				"ObserverPattern"
+			],
+			[
+				"A",
+				"AbstractObservable"
+			],
+			[
+				"defa",
+				"defaultController"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"famework",
+				"frameworkName"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"sourc",
+				"sourc073_users"
+			],
+			[
+				"re",
+				"registry"
+			],
+			[
+				"page",
+				"pageContent"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"PC",
+				"PCARegistry"
+			],
+			[
+				"block",
+				"blockOld"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"replace",
+				"replaceTags"
+			],
+			[
+				"cache",
+				"cacheId"
+			],
+			[
+				"repl",
+				"replaceDBTags"
+			],
+			[
+				"prv",
+				"private"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"new",
+				"newContent"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"connection",
+				"connection"
+			],
+			[
+				"fe",
+				"fetch_array"
+			],
+			[
+				"E",
+				"E_USER_ERROR"
+			],
+			[
+				"tri",
+				"trigger_error"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"exc",
+				"excecuteQuery"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"exce",
+				"excecuted"
+			],
+			[
+				"c",
+				"cached"
+			],
+			[
+				"cach",
+				"cache_id"
+			],
+			[
+				"data",
+				"dataCache"
+			],
+			[
+				"fetc",
+				"msql_fetch_array"
+			],
+			[
+				"ca",
+				"cache_id"
+			],
+			[
+				"connec",
+				"connections"
+			],
+			[
+				"active",
+				"activeConnection"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"clas",
+				"class_name"
+			],
+			[
+				"H",
+				"HTTP_USER_AGENT"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"session_re",
+				"session_regenerate_id"
+			],
+			[
+				"fram",
+				"frameworkName"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"objct",
+				"objects"
+			],
+			[
+				"na",
+				"navbar-inverse"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"remo",
+				"removeElement"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"tra",
+				"transitionEnd"
+			],
+			[
+				"pol",
+				"poll_id"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"w",
+				"was_published_recently"
+			],
+			[
+				"Pol",
+				"PollAdmin"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"server",
+				"server_list"
+			],
+			[
+				"s",
+				"server_list"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"star",
+				"start_list"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"django",
+				"djangostack-1"
+			],
+			[
+				"dj",
+				"djangostack-1"
+			],
+			[
+				"sour",
+				"sourc073_wpblog"
+			],
+			[
+				"row",
+				"rownum"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"content",
+				"counter-increment"
+			],
+			[
+				"p",
+				"passwd"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.coffee",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "'use strict';\n\nclass SourcedinDevops.Views.UserprofileView extends Backbone.View\n\n    template: JST['app/scripts/templates/userProfile.ejs']\n",
+			"file": "views/userProfile.coffee",
+			"file_size": 141,
+			"file_write_time": 1384896787000000,
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/scss.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/user.coffee",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/templates/userProfile.ejs",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/views/userProfile.coffee",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/routes/frontController.coffee",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/controllers/user.coffee",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/.htaccess",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/styles/main.scss",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/controllers/main.js",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/backfire.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/controllers/V1/user.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/index.html",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/package.json",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/bower.json",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/app.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/db.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/test/spec/controllers/user.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/controllers/V2/update.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/views/main.html",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/config.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/controllers/signIn.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/controllers/signUp.js",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/views/default.html",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/views/users/signup.html",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/views/users/signin.html",
+		"/Users/root1/Code/Modernizr/yolo-octo-robot/app/scripts/firebase.gist.js",
+		"/Users/root1/hello-node/app/scripts/app.js",
+		"/Users/root1/dev/generator-meap/app/templates/_bower.json",
+		"/Users/root1/dev/generator-meap/app/templates/_package.json",
+		"/Users/root1/dev/generator-meap/app/templates/editorconfig",
+		"/Users/root1/dev/generator-meap/app/templates/jshintrc",
+		"/Users/root1/dev/generator-meap/app/index.js",
+		"/Users/root1/dev/generator-meap/.travis.yml",
+		"/Users/root1/dev/generator-meap/package.json",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/source/_posts/blog-under-construction.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/source/_posts/hello-world.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/source/_posts/welcome-to-my-blog.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/scaffolds/draft.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/scaffolds/post.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/scaffolds/photo.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/scaffolds/page.md",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/_config.yml",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/public/2013/11/19/blog-under-construction/index.html",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/public/2013/11/19/hello-world/index.html",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/db.json",
+		"/Users/root1/_Projects/Agile-Practices/blog/sourced-in-migration/package.json",
+		"/Users/root1/sites/app/scripts/app.js",
+		"/Users/root1/sites/app/scripts/controllers/config.js",
+		"/Users/root1/sites/app/scripts/controllers/main.js",
+		"/Users/root1/sites/app/scripts/controllers/userController.js",
+		"/Users/root1/thinkster-firebase-tutorial/app/js/config.js",
+		"/Users/root1/thinkster-firebase-tutorial/app/js/services/loginservice.js",
+		"/Users/root1/thinkster-firebase-tutorial/app/js/controllers/headercontroller.js",
+		"/Users/root1/thinkster-firebase-tutorial/app/views/header.html",
+		"/Users/root1/thinkster-firebase-tutorial/app/js/controllers/signupcontroller.js",
+		"/Users/root1/thinkster-firebase-tutorial/app/js/controllers/signincontroller.js",
+		"/Users/root1/sites/app/styles/main.css",
+		"/Users/root1/sites/app/app.sublime-project",
+		"/Users/root1/sites/app/scripts/config.js",
+		"/Users/root1/sites/test/runner.html",
+		"/Users/root1/sites/app/scripts/services/userLoginService.js",
+		"/Users/root1/sites/app/views/main.html",
+		"/Users/root1/sites/.editorconfig",
+		"/Users/root1/front-end-awesome/app/styles/yaml-sass/_yaml-var-globals.scss",
+		"/Users/root1/front-end-awesome/app/styles/yaml-sass/_yaml-var-typography.scss",
+		"/Users/root1/front-end-awesome/app/styles/flexible-grids.scss",
+		"/Users/root1/front-end-awesome/app/index.html",
+		"/Users/root1/_Projects/silex/composer.json",
+		"/Users/root1/_Projects/silex/web/index.php",
+		"/Users/root1/_Projects/Vagrantfile",
+		"/Users/root1/_Projects/personal-website/package.json",
+		"/Users/root1/dev/generator-tietuxsuspenders/app/index.js",
+		"/Users/root1/dev/generator-tietuxsuspenders/.gitattributes",
+		"/Users/root1/dev/generator-tietuxsuspenders/node_modules/mocha/mocha.css",
+		"/Users/root1/_Projects/Sourcedin-Devops/test/runner.html",
+		"/Users/root1/_Projects/Sourcedin-Devops/test/spec/controllers/main.js",
+		"/Users/root1/_Projects/Sourcedin-Devops/Gruntfile.js",
+		"/Users/root1/_Projects/Sourcedin-Devops/package.json",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/scripts/controllers/main.js",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/scripts/app.js",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/index.html",
+		"/Users/root1/_Projects/Sourcedin-Devops/bower.json",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/styles/main.scss",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/robots.txt",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/views/main.html",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/views/contact.html",
+		"/Users/root1/_Projects/Sourcedin-Devops/app/views/about.html",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/scripts/controllers/main.coffee",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/scripts/controllers/main.js",
+		"/Users/root1/_Projects/Agile-Practices/prototype/.gitignore",
+		"/Users/root1/_Projects/Agile-Practices/prototype/README.creole",
+		"/Users/root1/_Projects/Agile-Practices/prototype/package.json",
+		"/Users/root1/_Projects/Agile-Practices/prototype/bower.json",
+		"/Users/root1/_Projects/Agile-Practices/prototype/Gruntfile.js",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/scripts/controllers/user.js",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/scripts/app.js",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/styles/compass/_base.scss",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/index.html",
+		"/Users/root1/_Projects/Agile-Practices/prototype/dist/robots.txt",
+		"/Users/root1/_Projects/Agile-Practices/prototype/app/views/main.html",
+		"/Users/root1/_Projects/Agile-Practices/prototype/test/runner.html",
+		"/Users/root1/_Projects/Agile-Practices/prototype/.travis.yml",
+		"/Users/root1/_Projects/Agile-Practices/prototype/.sass-cache/b44faac579215564f82fd20f75b197f3fd3a43bd/_alerts.scssc",
+		"/Users/root1/dev/generator-tietuxsuspenders/.travis.yml",
+		"/Users/root1/_Projects/Software-Development/baller-type/package.json",
+		"/Users/root1/_Projects/Software-Development/baller-type/node_modules/typescript/package.json",
+		"/Users/root1/_Projects/Software-Development/baller-type/node_modules/grunt/custom-gruntfile.js",
+		"/Users/root1/_Projects/Software-Development/baller-type/.editorconfig",
+		"/Users/root1/_Projects/Software-Development/baller-type/README.md",
+		"/Users/root1/_Projects/Software-Development/awesome-cms/app/index.html",
+		"/Users/root1/_Projects/Software-Development/awesome-cms/app/scripts/controllers/main.js",
+		"/Users/root1/_Projects/Software-Development/awesome-cms/app/scripts/app.js",
+		"/Users/root1/_Projects/Software-Development/awesome-cms/app/styles/main.css",
+		"/Users/root1/_Projects/Software-Development/awesome-cms/package.json",
+		"/Users/root1/hello-node/app/styles/main.scss",
+		"/Users/root1/hello-node/app/views/main.html",
+		"/Users/root1/hello-node/app/index.html",
+		"/Users/root1/hello-node/README.md",
+		"/Users/root1/hello-node/Gruntfile.js",
+		"/Users/root1/hello-node/karma.conf.js",
+		"/Users/root1/hello-node/package.json",
+		"/Users/root1/hello-node/server.js",
+		"/Users/root1/hello-node/.bowerrc",
+		"/Users/root1/hello-node/.editorconfig",
+		"/Users/root1/hello-node/.travis.yml",
+		"/Users/root1/hello-node/bower.json",
+		"/Users/root1/hello-node/npm-debug.log",
+		"/Users/root1/hello-node/node_modules/express/package.json",
+		"/Users/root1/laravel/home.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"angular",
+			"btn",
+			"'];\n",
+			"')",
+			"detect_unicode",
+			"detect_unicdoe",
+			"detect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.coffee",
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/userProfile.coffee",
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/root1/_Projects/Software-Development/baller-type/README.md"
+			],
+			[
+				".t",
+				".travis.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/root1/front-end-awesome/app/styles/yaml-sass/py-laravel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

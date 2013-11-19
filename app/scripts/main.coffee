@@ -1,8 +1,8 @@
 window.SourcedinDevops =
-  Models: {}
-  Collections: {}
-  Views: {}
-  Routers: {}
+  Models: {User}
+  Collections: {UserBase}
+  Views: {UserProfile}
+  Routers: {FrontcontrollerRouter}
   init: ->
     'use strict'
     console.log 'Hello from Backbone!'
