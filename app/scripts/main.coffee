@@ -1,7 +1,7 @@
 window.SourcedinDevops =
-  Models: {User}
-  Collections: {UserBase}
-  Views: {UserProfile}
+  Models: {User,Userbase}
+  Collections: {Userbase}
+  Views: {UserprofileView}
   Routers: {FrontcontrollerRouter}
   init: ->
     'use strict'

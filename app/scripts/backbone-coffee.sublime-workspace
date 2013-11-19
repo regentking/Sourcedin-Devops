@@ -372,10 +372,13 @@
 	"buffers":
 	[
 		{
+			"contents": "window.SourcedinDevops =\n  Models: {User,Userbase}\n  Collections: {Userbase}\n  Views: {UserprofileView}\n  Routers: {FrontcontrollerRouter}\n  init: ->\n    'use strict'\n    console.log 'Hello from Backbone!'\n\n$ ->\n  'use strict'\n  SourcedinDevops.init();\n\n",
 			"file": "main.coffee",
+			"file_size": 253,
+			"file_write_time": 1384901422000000,
 			"settings":
 			{
-				"buffer_size": 196,
+				"buffer_size": 254,
 				"line_ending": "Unix"
 			}
 		},
@@ -389,14 +392,37 @@
 				"buffer_size": 141,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "models/userBase.coffee",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "'use strict';\n\nclass SourcedinDevops.Models.UserModel extends Backbone.Model\n    \n    intialize: (@name, @email, @password, @id) ->\n\n",
+			"file": "models/user.coffee",
+			"file_size": 153,
+			"file_write_time": 1384901165000000,
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Unix"
+			}
 		}
 	],
-	"build_system": "Packages/User/scss.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 347.0,
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
 		],
 		"width": 449.0
 	},
@@ -415,8 +441,8 @@
 	},
 	"file_history":
 	[
-		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/user.coffee",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/templates/userProfile.ejs",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/user.coffee",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/views/userProfile.coffee",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/routes/frontController.coffee",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/controllers/user.coffee",
@@ -592,15 +618,15 @@
 					"file": "main.coffee",
 					"settings":
 					{
-						"buffer_size": 196,
+						"buffer_size": 254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								196,
-								196
+								254,
+								254
 							]
 						],
 						"settings":
@@ -627,6 +653,58 @@
 							[
 								140,
 								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/userBase.coffee",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/user.coffee",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
 							]
 						],
 						"settings":
