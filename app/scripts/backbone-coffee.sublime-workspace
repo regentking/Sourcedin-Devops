@@ -372,17 +372,6 @@
 	"buffers":
 	[
 		{
-			"contents": "window.SourcedinDevops =\n  Models: {User,Userbase}\n  Collections: {Userbase}\n  Views: {UserprofileView}\n  Routers: {FrontcontrollerRouter}\n  init: ->\n    'use strict'\n    console.log 'Hello from Backbone!'\n\n$ ->\n  'use strict'\n  SourcedinDevops.init();\n\n",
-			"file": "main.coffee",
-			"file_size": 253,
-			"file_write_time": 1384901422000000,
-			"settings":
-			{
-				"buffer_size": 254,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"contents": "'use strict';\n\nclass SourcedinDevops.Views.UserprofileView extends Backbone.View\n\n    template: JST['app/scripts/templates/userProfile.ejs']\n",
 			"file": "views/userProfile.coffee",
 			"file_size": 141,
@@ -391,6 +380,15 @@
 			{
 				"buffer_size": 141,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitingore",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix",
+				"name": ".gitingore"
 			}
 		},
 		{
@@ -411,9 +409,25 @@
 				"buffer_size": 133,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "main.coffee",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.coffee",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Iced/Commands/IcedCoffeeScript.sublime-build",
 	"command_palette":
 	{
 		"height": 347.0,
@@ -421,7 +435,23 @@
 		[
 			[
 				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"package control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
 				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
 			]
 		],
 		"width": 449.0
@@ -441,6 +471,9 @@
 	},
 	"file_history":
 	[
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/ap.coffee",
+		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/main.coffee",
+		"/Users/root1/Library/Application Support/Sublime Text 2/coffee.sublime-build",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/templates/userProfile.ejs",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/user.coffee",
 		"/Users/root1/Code/Modernizr/Sourcedin-Devops/app/scripts/views/userProfile.coffee",
@@ -565,10 +598,7 @@
 		"/Users/root1/hello-node/.bowerrc",
 		"/Users/root1/hello-node/.editorconfig",
 		"/Users/root1/hello-node/.travis.yml",
-		"/Users/root1/hello-node/bower.json",
-		"/Users/root1/hello-node/npm-debug.log",
-		"/Users/root1/hello-node/node_modules/express/package.json",
-		"/Users/root1/laravel/home.js"
+		"/Users/root1/hello-node/bower.json"
 	],
 	"find":
 	{
@@ -610,37 +640,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "main.coffee",
-					"settings":
-					{
-						"buffer_size": 254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "views/userProfile.coffee",
 					"settings":
 					{
@@ -657,6 +661,33 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitingore",
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".gitingore",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -705,6 +736,58 @@
 							[
 								133,
 								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.coffee",
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app.coffee",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":

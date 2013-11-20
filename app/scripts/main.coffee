@@ -10,4 +10,4 @@ window.SourcedinDevops =
 $ ->
   'use strict'
   SourcedinDevops.init();
-
+  
